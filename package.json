@@ -1,0 +1,22 @@
+{
+  "name": "http-forwarder",
+  "version": "1.0.0",
+  "description": "A basic API which forwards HTTP traffic for multiple domains using a database.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamdavidharrison/http-forwarder.git"
+  },
+  "author": "William Harrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamdavidharrison/http-forwarder/issues"
+  },
+  "homepage": "https://github.com/williamdavidharrison/http-forwarder#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.1"
+  }
+}
