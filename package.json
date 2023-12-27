@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williamdavidharrison/http-forwarder.git"
+    "url": "git+https://github.com/wdhdev/http-forwarder.git"
   },
   "author": "William Harrison",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/williamdavidharrison/http-forwarder/issues"
+    "url": "https://github.com/wdhdev/http-forwarder/issues"
   },
-  "homepage": "https://github.com/williamdavidharrison/http-forwarder#readme",
+  "homepage": "https://github.com/wdhdev/http-forwarder#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.0.3",
